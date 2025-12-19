@@ -19,10 +19,6 @@ of up to 6 discs.
 
 Install as described in the original README and then run the GUI with python shotshaper_launcher.py
 
-UNFINISHED:
-The unit switching isn't fully implemented yet. Some conversions are not being done 
-correctly. This is being worked on. disc_gui2d.py has not been updatd to use both
-units at all yet. 
 
 Introduction
 ------------
